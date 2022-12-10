@@ -1,0 +1,23 @@
+#red{
+    float:left;
+    width:400px;
+    }
+    #green{
+    float:left;
+    length:300px;
+    width:400px;
+    }
+    #blue{
+    clear:both;
+    float:left;
+    width:400px;
+    }
+    #purple{
+      float:left;
+      width:400px;
+    }
+    #footer{
+      clear:both;
+      length:1px
+      width:400px;
+    }

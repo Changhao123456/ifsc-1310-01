@@ -1,0 +1,32 @@
+#red {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+  }
+  
+  #green {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 200px;
+  }
+  
+  #blue {
+    position: absolute;
+    top: 800px;
+    left: 0;
+    width: 200px;
+  }
+  
+  #purple {
+    position: absolute;
+    top: 800px;
+    right: 0;
+    width: 200px;
+  }
+  
+  #footer {
+    position: relative;
+    width: 200px;
+  }

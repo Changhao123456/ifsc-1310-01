@@ -1,8 +1,8 @@
 /* Color Theme  
  #53616B 
  #1B2C38 
- #181C1F - Base
- #33536B
+ #246C60 - Base
+ #512C73
  #8EA6B8
 
 */
@@ -152,7 +152,7 @@ html {
   section#content h3{
     font-family: "Goldman", cursive;
     font-size: 1.2em;
-    color: #33536b;
+    color: #512C73;
     border-bottom: 1px solid #c0c0c0;
   }
   
@@ -168,11 +168,11 @@ html {
     margin:10px;
     font-family: "Goldman", cursive;
     font-size: 2em;
-    color: #33536b;
+    color: #512C73;
   }
   
   section#content th {
-    background:#181C1F;
+    background:#246C60;
     color:#ffffff;
     text-align:left;
     padding:10px;
@@ -194,7 +194,7 @@ html {
   /* ------------- Articles --------------- */
   
   section#articles {
-    background: #181c1f;
+    background: #246C60;
   }
   
   section#articles .container {
@@ -209,7 +209,7 @@ html {
   section#articles h2,
   #content h2 {
     flex: 0 0 100%;
-    color: #33536b;
+    color: #512C73;
     text-align: center;
     font-family: "Goldman", cursive;
     font-size: 2em;
@@ -249,7 +249,7 @@ html {
   
   #articles .post a:link,
   #articles .post a:visited {
-    color: #3b638b;
+    color: #512C73;
   }
   
   #articles .post figure {
@@ -277,7 +277,7 @@ html {
   
   /* Attribute Selector */
   aside[role="complementary"] {
-    background-color: #181c1f;
+    background-color: #246C60;
     color: #ffffff;
     padding: 2.5em;
   }
@@ -326,7 +326,7 @@ html {
   /*------ Footer ------*/
   
   footer#colophon {
-    background-color: #1b2c38;
+    background-color: #246C60;
   }
   
   #colophon h6 {

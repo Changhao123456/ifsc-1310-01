@@ -1,8 +1,8 @@
 /* Color Theme  
  #53616B 
  #1B2C38 
- #181C1F - Base
- #33536B
+ #246C60 - Base
+ #512C73
  #8EA6B8
 */
 
@@ -147,14 +147,14 @@ html {
   section#content h2 {
     font-family: "Goldman", cursive;
     font-size: 2.2em;
-    color: #33536b;
+    color: #512C73;
     text-align: center;
   }
   
   /* ------------- Articles --------------- */
   
   section#articles {
-    background: #181c1f;
+    background: #246C60;
   }
   
   section#articles .container {
@@ -169,7 +169,7 @@ html {
   section#articles h2,
   #content h2 {
     flex: 0 0 100%;
-    color: #33536b;
+    color: #512C73;
     text-align: center;
     font-family: "Goldman", cursive;
     font-size: 2em;
@@ -237,7 +237,7 @@ html {
   
   /* Attribute Selector */
   aside[role="complementary"] {
-    background-color: #181c1f;
+    background-color: #246C60;
     color: #ffffff;
     padding: 2.5em;
   }
@@ -285,7 +285,7 @@ html {
   /*------ Footer ------*/
   
   footer#colophon {
-    background-color: #1b2c38;
+    background-color: #246C60;
   }
   
   #colophon h6 {
